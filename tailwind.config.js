@@ -5,8 +5,8 @@ module.exports = {
   ],
   theme: {
     extend: {
-      gridTemplateColumns: {
-        'content': '1fr,20rem',
+      colors: {
+        master: '#417E38'
       }
     },
   },
