@@ -1,3 +1,3 @@
 echo before
-CMD /C live-server ./src
+CMD /C live-server ./dist
 echo after
